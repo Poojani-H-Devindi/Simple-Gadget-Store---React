@@ -71,4 +71,4 @@ export default defineConfig([
   },
 ])
 ```
-Live Link : https://reactgadgetsrore.netlify.app
+Live Link : https://reactgadgetstore.netlify.app/ 
